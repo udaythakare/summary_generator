@@ -54,7 +54,3 @@ Contributions to improve the model's performance or extend its capabilities are 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-You can customize this README file further according to your specific model implementation and any additional information you want to provide.
