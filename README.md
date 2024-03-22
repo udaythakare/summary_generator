@@ -1,7 +1,3 @@
-Sure, here's a sample README file for your AI model trained on the Alpaca dataset for generating summaries:
-
----
-
 # AI Summarization Model
 
 This repository contains an AI model for generating summaries of news articles. The model has been trained on the Alpaca dataset, a variant specifically designed for the CNN/Daily Mail summarization task. 
